@@ -8,6 +8,6 @@ Summer math/vibe camp
 
 July 2023, Stockholm
 
-<mark>use arrows for control</mark>
+<mark>use arrows to navigate</mark>
 
 
