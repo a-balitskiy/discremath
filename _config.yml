@@ -1,5 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Reveal-Jekyll"
+url: "https://balit.ski"
+baseurl: "/discremath"
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 reveal:
