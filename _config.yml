@@ -4,7 +4,7 @@ baseurl: "/discremath"
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 reveal:
-  title: "Reveal-jekyll"
+  title: "discreditedmath"
   transition: "slide" # none/fade/slide/convex/concave/zoom
   theme: "mysimple" # black/beige/blood/league/moon/night/serif/simple/sky/solarized/white
   number: false
